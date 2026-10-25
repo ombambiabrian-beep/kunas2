@@ -1,0 +1,14 @@
+.home{
+    margin:20px;
+    padding:20px;
+    background-color: rgb(119, 161, 216);
+    color: #ecf7f7;
+    border-radius: 40px;
+    height: 60%;
+    width: 30%;
+    display:block;
+    align-items: center;
+    justify-content: center;
+    
+}
+
